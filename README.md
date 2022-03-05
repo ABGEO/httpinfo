@@ -2,7 +2,7 @@
 
 Display information about HTTP status codes.
 
-Written in Abkhazia, Georgia 🇬🇪 05-03-2022.
+Written in Abkhazia, Georgia 🇬🇪 2022-03-05.
 
 ## Installation
 ```bash
