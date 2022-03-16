@@ -1,4 +1,4 @@
-#!/bin/env sh
+#!/bin/env bash
 # Copyright (C) 2022 Temuri Takalandze.
 # License GPLv3+: GNU GPL version 3 or later <https://gnu.org/licenses/gpl.html>.
 # This is free software: you are free to change and redistribute it.
