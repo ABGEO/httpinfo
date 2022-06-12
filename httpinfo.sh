@@ -51,7 +51,7 @@ function print_status_code_description() {
 
   ARTICLE_CONTENT=$(echo "$TRIMMED_HTML" | grep -o -P '<article class="main-page-content" lang="en-US">(.*?)<\/article>')
   TITLE=$(echo "$ARTICLE_CONTENT" | grep -o -P '(?<=<h1>).*(?=</h1>)')
-  DESCRIPTION=$(echo "$ARTICLE_CONTENT" | grep -o -P '(?<=<div>).*(?=</div><section aria-labelledby="status">)')
+  DESCRIPTION=$(echo "$ARTICLE_CONTENT" | grep -o -P '(?<=<div class="section-content">).*(?=</div><section aria-labelledby="status">)')
 
   echo "$TITLE"
   repeat_text ${#TITLE} "="
