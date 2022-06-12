@@ -5,8 +5,9 @@ Display information about HTTP status codes.
 Written in Abkhazia, Georgia 🇬🇪 2022-03-05.
 
 ## Installation
+
 ```bash
-$ sudo curl -L "https://github.com/ABGEO/httpinfo/releases/download/v1.0.2/httpinfo.sh" -o /usr/local/bin/httpinfo
+$ sudo curl -L "https://github.com/ABGEO/httpinfo/releases/download/v1.0.3/httpinfo.sh" -o /usr/local/bin/httpinfo
 $ sudo chmod +x /usr/local/bin/httpinfo
 ```
 

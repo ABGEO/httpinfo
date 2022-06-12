@@ -1,5 +1,11 @@
 # CHANGELOG
 
+### [1.0.3](https://github.com/ABGEO/httpinfo/compare/v1.0.2...v1.0.3) (2022-06-12)
+
+### Bug Fixes
+
+* fix description parser ([00aebc1](https://github.com/ABGEO/httpinfo/commit/00aebc17db98da43d75e8c61c6cebaed4a5918ed))
+
 ## [1.0.2](https://github.com/ABGEO/httpinfo/compare/v1.0.1...v1.0.2) (2022-04-24)
 
 ### Bug Fixes
